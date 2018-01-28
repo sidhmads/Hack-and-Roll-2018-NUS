@@ -22,4 +22,7 @@ our rooms get wet and at times filled with water.
 **Arduino** 
 * The project was built on *Arduino Mega, Bluetooth Sensor, Humidity Sensor, Pressure Sensor, Altitude Sensor, Temperture Sensor and DIY Rain Sensor.
 
+**In the future**
+* Scheduling function update
+
   
