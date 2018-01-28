@@ -4,7 +4,7 @@
 * It is a 24 hours Hackathon organsied by the NUS Hackers. Approximately 500 people turned up for this event to hack!
 
 **Our Project** 
-* There are numerous occassions where we have our windows open while we are out. When it is not raining, it is totally fine. However, we it starts raining, 
+* There are numerous occassions where we have our windows open while we are out. When it is not raining, it is totally fine. However, when it starts raining, 
 our rooms get wet and at times filled with water.
 * In this project, my Team and I planned on making a automated window opener and closer. 
 * This project mainly had 3 components
