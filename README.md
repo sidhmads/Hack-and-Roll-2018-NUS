@@ -14,7 +14,7 @@ our rooms get wet and at times filled with water.
 * I was soley incharge of the react native app programming and also helped out in Arduino Programming too.
 
 **React Native**
-* The app communicates with *arduino* via the use of *HC-05* bluetooh module. 
+* The app communicates with *arduino* via the use of *HC-05* bluetooh module on the arduino and the Android Native App. 
 * There is a slider, which can be used to control the degree of opening and closing of the smart window. 
 * There is also a component to read the sensorical datas from the arduino and print it on the screen. 
 * Finally there is also a datetime picker, which is used to schedule the opening or closing of the arduino respectively.
